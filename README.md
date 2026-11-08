@@ -11,6 +11,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0072-edit-distance) |
+| [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0322-coin-change) |
 ## 背包问题
 |  |
@@ -36,4 +38,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
+## 最长上升子序列
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
