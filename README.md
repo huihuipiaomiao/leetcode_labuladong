@@ -14,6 +14,7 @@
 | [0072-edit-distance](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0072-edit-distance) |
+| [1143-longest-common-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0053-maximum-subarray) |
+## 最长公共子序列
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
