@@ -9,6 +9,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0322-coin-change) |
 ## 背包问题
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
