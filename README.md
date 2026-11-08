@@ -29,6 +29,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1254-number-of-closed-islands) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1254-number-of-closed-islands) |
 ## 背包问题
 |  |
 | ------- |
@@ -64,12 +66,15 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1254-number-of-closed-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/huihuipiaomiao/leetcode_labuladong/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
