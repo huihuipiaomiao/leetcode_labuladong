@@ -10,8 +10,8 @@ class Solution:
         else:
             i = 0
         
-        node1 = ListNode((l1.val + l2.val) % 10)
-        node = node1
+        node_head = ListNode((l1.val + l2.val) % 10)
+        node = node_head
 
         if l1.next != None and l2.next != None:
             while l1.next and l2.next:
@@ -47,5 +47,5 @@ class Solution:
         if i == 1:
             node.next = ListNode(1)
 
-        return node1
+        return node_head
         
